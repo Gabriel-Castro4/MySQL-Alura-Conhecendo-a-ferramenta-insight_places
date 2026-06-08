@@ -1,0 +1,1 @@
+*PROJETO ACOMPANHANDO AS AULAS DO CURSO DA ALURA MySQL: conhecendo a ferramenta*
