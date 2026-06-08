@@ -1,0 +1,6 @@
+.1-enderecos
+.2-clientes
+.3-proprietarios
+.4-hospedagens
+.5-alugueis
+.6-avaliacoes
